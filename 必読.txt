@@ -1,0 +1,22 @@
+# 4枚の画像を結合させるためのツールです
+
+※「logfile」フォルダーは書き換えないでください。
+
+
+# setting.jsonは設定のファイルです。
+適宜に書き換えてください。
+
+{
+    "imgType": "image/jpeg, image/png",
+    "directory": "photos",
+    "fileName": "image2"
+}
+
+「directory」は結合させる画像を入れるフォルダー名
+「fileName」は結合後の画像ファイル名
+「imgType」は書き換えないでください。
+
+# ツールの起動
+「結合用.exe」をダブルクリックしてください。
+
+※画像４枚ないと正常に動きません。
